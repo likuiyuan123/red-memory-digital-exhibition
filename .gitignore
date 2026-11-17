@@ -1,0 +1,14 @@
+# 本地大模型密钥配置（含真实 API Key，禁止提交到公开仓库）
+config.local.js
+.env
+.env.local
+
+# 依赖与运行产物
+node_modules/
+*.log
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

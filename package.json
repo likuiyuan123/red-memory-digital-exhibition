@@ -1,0 +1,16 @@
+{
+  "name": "red-memory-digital-exhibition",
+  "version": "1.0.0",
+  "private": true,
+  "description": "红色记忆数字展馆：面向在校学生的红色文化科普单文件 Web 应用，含三维展厅、事件地图、RAG 混合检索、Agent 工具调度与本地语音能力。",
+  "main": "长征精神数字展馆.html",
+  "scripts": {
+    "start-proxy": "node llm-proxy.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "MIT"
+}
